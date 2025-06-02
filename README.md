@@ -10,8 +10,8 @@
 <body>
 
   <header>
-    <h1>Whimsy Stitches</h1>
-    <p>Handmade Crochet Dolls by [Your Name]</p>
+    <h1>Daniela's Dolls</h1>
+    <p>Handmade Crochet Dolls by Daniela Kostas</p>
   </header>
 
   <nav>
@@ -22,7 +22,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hello! I'm [Your Name], a crochet enthusiast making whimsical dolls by hand. Each one is made with love and yarn.</p>
+    <p>Hello! I'm Daniela, a crochet enthusiast making whimsical dolls by hand. Each one is made with love and yarn made right here in Canada.</p>
   </section>
 
   <section id="gallery">
@@ -42,16 +42,16 @@
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <form action="mailto:your@email.com" method="post" enctype="text/plain">
-      <input type="text" name="name" placeholder="Your Name" required>
-      <input type="email" name="email" placeholder="Your Email" required>
-      <textarea name="message" placeholder="Your Message" required></textarea>
+    <form action="Daniela.Kostas.28@gmail.com" method="post" enctype="text/plain">
+      <input type="text" name="Daniela" placeholder="Daniela Kostas" required>
+      <input type="email" name="email" placeholder="Daniela.Kostas.28@gmail.com" required>
+      <textarea name="message" placeholder="Made With Love and Yarn... But mostly love!" required></textarea>
       <button type="submit">Send</button>
     </form>
   </section>
 
   <footer>
-    <p>&copy; 2025 Whimsy Stitches</p>
+    <p>&copy; 2025 Daniela's Dolls</p>
   </footer>
 
 </body>
